@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .head{
     background-color: rgb(255, 0, 0);
     text-align: center;
@@ -17,4 +21,27 @@
 }
 .start{
     background: rgb(128, 0, 154);
+}
+
+.doohaa{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+}
+.doohaa h3{
+    background-color: rgb(128,0,154);
+}
+
+.chorpahie{
+    text-align: center;
+    background-color: #ff9b00;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.doha{
+    background-color: #f51a1acc;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
 }
